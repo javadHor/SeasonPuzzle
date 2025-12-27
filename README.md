@@ -14,6 +14,7 @@ Visual Algebra - Solving pictorial equations
 Circle of Life - Resource management across four seasons
 
 🌸 Dynamic Seasonal System
+
 Spring: Collection of basic resources
 
 Summer: Management of perishable resources
@@ -75,7 +76,7 @@ OS: Windows, macOS, Linux
 Installation Steps
 bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/maze-adventure.git
+git clone https://github.com/javadHor/SeasonPuzzle.git
 
 # 2. Navigate to project directory
 cd maze-adventure
@@ -90,24 +91,7 @@ bash
 # 1. In Godot: Project → Export
 # 2. Select your target platform
 # 3. Apply settings and Build
-📁 Project Structure
-text
-Maze-Adventure/
-├── Scenes/                    # Game scenes
-│   ├── Seasons/              # Four seasonal scenes
-│   ├── UI/                   # User interface
-│   ├── Player/               # Player character
-│   └── Items/                # Game items
-├── Scripts/                  # GDScript files
-│   ├── GameManager.gd        # Central game management
-│   ├── PlayerController.gd   # Player controls
-│   ├── Seasons/              # Season scripts
-│   └── UI/                   # UI scripts
-├── Assets/                   # Graphical and audio assets
-│   ├── Textures/             # Images and textures
-│   └── Sounds/               # Sound effects
-├── Docs/                     # Project documentation
-└── README.md                 # This file
+             # This file
 🛠️ Technologies Used
 Game Engine: Godot Engine 4.2
 
@@ -176,4 +160,3 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📞 Support & Con
